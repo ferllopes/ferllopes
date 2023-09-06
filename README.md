@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Fernando Lucas Lopes @ferllopes
+- 👋 Hi, I'm Fernando Lucas Lopes @fer.llopes
 - 👀 I am a teacher at Jose Ferraz school
 - 🌱 I'm working as English and Technologies teacher
 - 💞️ I work with students from 6 to 9 grades
