@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ferllopes
-- 👀 I’m interested in ... science, nature, teaching
-- 🌱 I’m currently learning to code... scratch
-- 💞️ I’m looking to collaborate on ... education
+- 👋 Hi, I'm Fernando Lucas Lopes @ferllopes
+- 👀 I am a teacher at Jose Ferraz school
+- 🌱 I'm working as English and Technologies teacher
+- 💞️ I work with students from 6 to 9 grades
 - 📫 How to reach me ... e-mail
 
 <!---
